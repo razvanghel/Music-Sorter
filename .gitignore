@@ -1,0 +1,11 @@
+__pycache__/Searchbar.cpython-39.pyc
+handlers/__pycache__/Frame.cpython-39.pyc
+handlers/__pycache__/GUIHandler.cpython-39.pyc
+handlers/__pycache__/Reader.cpython-39.pyc
+model/artists/__pycache__/Artist.cpython-39.pyc
+model/artists/__pycache__/Artists.cpython-39.pyc
+model/frame/__pycache__/FrameTemplate.cpython-39.pyc
+model/frame/__pycache__/FrameType.cpython-39.pyc
+model/frame/__pycache__/ScrollFrame.cpython-39.pyc
+model/song/__pycache__/Song.cpython-39.pyc
+*.pyc
